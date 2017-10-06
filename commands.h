@@ -19,6 +19,7 @@
 #ifndef _COMMANDS_H_
 #define _COMMANDS_H_
 
+#include <stddef.h>
 #include <stdint.h>
 
 /* This is a shared data type to handle different type sizes for subcommands. */
